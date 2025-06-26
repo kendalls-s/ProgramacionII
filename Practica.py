@@ -8,3 +8,7 @@ print("Dimensión de la tabla:", df.shape)
 # Función que retorna el menor de tres valores
 def menor(A, B, C):
     return min(A, B, C)
+
+#Funcion que retorna el maximo
+def maximo(A, B, C):
+    return max(A, B, C)
